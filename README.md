@@ -49,6 +49,29 @@ Newest first. Each release lists the pools it updated.
 
 <!-- changelog -->
 
+### 26305.011719 - 2026-11-01
+
+- ISACA_AAIA_2026: 210,704 questions, built 2026-11-01
+- ISACA_AAIR_2025: 263,194 questions, built 2026-11-01
+- ISACA_AAISM_2026: 264,235 questions, built 2026-11-01
+- ISACA_CCOA_2026: 263,648 questions, built 2026-11-01
+- ISACA_CDPSE_2025: 264,847 questions, built 2026-11-01
+- ISACA_CGEIT_2020: 265,051 questions, built 2026-11-01
+- ISACA_CISA_2024: 272,212 questions, built 2026-11-01
+- ISACA_CISM_2026: 292,790 questions, built 2026-11-01
+- ISACA_CRISC_2025: 284,121 questions, built 2026-11-01
+- ISC2_AISC_2026: 347,582 questions, built 2026-11-01
+- ISC2_CCSP_2026: 281,207 questions, built 2026-11-01
+- ISC2_CC_2026: 285,816 questions, built 2026-11-01
+- ISC2_CGRC_2024: 287,184 questions, built 2026-11-01
+- ISC2_CISSP_2024: 285,925 questions, built 2026-11-01
+- ISC2_CISSP_2027: 329,374 questions, built 2026-11-01
+- ISC2_CSSLP_2023: 288,444 questions, built 2026-11-01
+- ISC2_ISSAP_2025: 309,663 questions, built 2026-11-01
+- ISC2_ISSEP_2025: 291,874 questions, built 2026-11-01
+- ISC2_ISSMP_2025: 292,997 questions, built 2026-11-01
+- ISC2_SSCP_2025: 287,353 questions, built 2026-11-01
+
 ### 26302.201636 - 2026-10-30
 
 - All question pools republished.
